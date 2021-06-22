@@ -1,4 +1,4 @@
-<img src ="https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706__340.jpg">
+<img width="100%" src ="https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706__340.jpg">
 
 # Hello World 👋
 
