@@ -2,7 +2,7 @@
 
 # Hello World 👋
 
-## Je m'appelle Raphael developpeur web
+## Je m'appelle Raphael, developpeur web
 
 ### Languages and Tools:
 
